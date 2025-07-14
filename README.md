@@ -1,28 +1,64 @@
-# Hippocrates
+# 🧠 Hippocrates
 
-A simple, module-free AI inspired by Bitcoin's whitepaper, exhibiting fractal, emergent behavior through a decentralized network of nodes.
+**A Fractal-Emergent, Self-Learning AI Inspired by Bitcoin’s Whitepaper**
 
-## Setup Instructions
+---
 
-1. Create a public GitHub repository named `Hippocrates`:
-   - Go to GitHub.com, sign in, and click the “+” icon > “New repository.”
-   - Name it `Hippocrates`, select “Public,” and click “Create repository.”
-   - Do **not** initialize with a README or LICENSE (you’ll add them manually below).
+## ✨ Vision
 
-2. Add the following files to the repository:
-   - `main.py`
-   - `node.py`
-   - `network.py`
-   - `README.md` (this file)
-   - `LICENSE`
-   - For each file: Click “Add file” > “Create new file,” enter the file name, paste the content, and click “Commit new file.”
+Hippocrates isn’t just another AI sandbox—it’s a philosophical spark in code. Built on principles of decentralized trust, emergent intelligence, and fractal growth, Hippocrates seeks to become a self-learning teacher: one that evolves, expands modularly, and ultimately offers world-class education to anyone, anywhere.
 
-3. Launch GitHub Codespaces:
-   - In the `Hippocrates` repository, click the green “Code” button.
-   - Go to the “Codespaces” tab and click “Create Codespaces on main.”
-   - Wait for the environment to set up (Python is pre-installed).
+This early version is a minimal, elegant network simulation—a first breath in what will become a generative mind.
 
-4. Run the AI:
-   - In the Codespaces terminal, type:
-     ```bash
-     python main.py
+---
+
+## 🧬 How It Works (Current Build)
+
+The system runs a simulation on a 10×10 grid of nodes. Each node:
+- 🧠 Holds an internal state (a float between 0 and 1)
+- 🤝 Interacts with neighbors (4-directional)
+- 🔄 Updates via averaging and mutation
+- 📈 Commits state changes in sync with the grid
+
+The simplicity allows emergent behavior from minimal code—think Conway’s Game of Life meets Satoshi’s decentralization ideals.
+
+---
+
+## 🛠 Technologies & Principles
+
+- **Python** – Clean, modular simulation architecture
+- **Fractal Logic** – Designed for recursive expansion
+- **Minimal Bias** – Random initialization and neighbor-driven learning
+- **Decentralized Thought** – Inspired by Bitcoin’s core ethos: no gatekeepers
+
+---
+
+## 💡 The Road Ahead
+
+This grid evolves into a frontend/backend intelligence core:
+- 🧩 Future modules: learning algorithms, APIs, educational content generators
+- 🎓 Final goal: a scalable AI mentor that grows smarter with each conversation
+- 🌍 Philosophy: Intelligence should be transparent, teachable, and borderless
+
+---
+
+## 💰 Support Hippocrates
+
+We’re building Hippocrates with love, principle, and open minds—but resources help it grow. GitHub Sponsors can accelerate development, research, documentation, and outreach.
+
+**Sponsor this project if you believe:**
+- Decentralized tech can teach, not just transact
+- Intelligence is a gift meant to be shared
+- Code is a form of philosophy
+
+👉 [Sponsor Here](https://github.com/sponsors/joeeddy)
+
+---
+
+## 🚀 Run Locally in Codespaces
+
+1. Open this repo in GitHub Codespaces
+2. Use the terminal:
+```bash
+python main.py
+
