@@ -1,0 +1,11 @@
+{
+  "name": "Hippocrates Dev Container",
+  "image": "mcr.microsoft.com/vscode/devcontainers/python:3.10",
+  "extensions": [
+    "ms-python.python"
+  ],
+  "settings": {
+    "python.pythonPath": "/usr/local/bin/python"
+  },
+  "postCreateCommand": "pip install --upgrade pip"
+}
