@@ -4,6 +4,18 @@
 
 ---
 
+## ⚡ Try It Instantly
+
+### [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joeeddy/Hippocrates/)
+**Run in Google Colab:**  
+Click the badge above to open this project in Google Colab and work with the code and notebooks directly in your browser — no installation needed.
+
+### [![JupyterLite](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://joeeddy.github.io/Hippocrates/)
+**Try in Your Browser (JupyterLite):**  
+Visit our [JupyterLite-powered site](https://joeeddy.github.io/Hippocrates/) to run Python notebooks in your browser, fully client-side, with no setup or sign-in required.
+
+---
+
 ## ✨ Vision
 
 Hippocrates isn’t just another AI sandbox—it’s a philosophical spark in code. Built on principles of decentralized trust, emergent intelligence, and fractal growth, Hippocrates seeks to become a self-learning teacher: one that evolves, expands modularly, and ultimately offers world-class education to anyone, anywhere.
@@ -59,6 +71,5 @@ We’re building Hippocrates with love, principle, and open minds—but resource
 
 1. Open this repo in GitHub Codespaces
 2. Use the terminal:
-```bash
-python main.py
-
+   ```bash
+   python main.py
