@@ -18,7 +18,7 @@ Visit our [JupyterLite-powered site](https://joeeddy.github.io/Hippocrates/) to 
 
 ## ✨ Vision
 
-Hippocrates isn’t just another AI sandbox—it’s a philosophical spark in code. Built on principles of decentralized trust, emergent intelligence, and fractal growth, Hippocrates seeks to become a self-learning teacher: one that evolves, expands modularly, and ultimately offers world-class education to anyone, anywhere.
+Hippocrates the AI sandbox— a philosophical spark in code. Built on principles of decentralized trust, emergent intelligence, and fractal growth, Hippocrates seeks to become a self-learning teacher: one that evolves, expands modularly, and ultimately offers world-class education to anyone, anywhere.
 
 This early version is a minimal, elegant network simulation—a first breath in what will become a generative mind.
 
